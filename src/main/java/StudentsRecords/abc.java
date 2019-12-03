@@ -1,6 +1,6 @@
 package StudentsRecords;
 
-public class abc {
+public class Abc {
 	
 	public void test() {
 		System.out.println("kdksjfkdsk");
