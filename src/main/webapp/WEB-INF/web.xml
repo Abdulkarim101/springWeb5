@@ -1,0 +1,16 @@
+<web-app>
+	<display-name>My 5th SpringWeb</display-name>
+
+	<servlet>
+		<servlet-name>5web</servlet-name>
+		<servlet-class>org.springframework.web.servlet.DispatcherServlet
+		</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>5web</servlet-name>
+		<url-pattern>/</url-pattern>
+	</servlet-mapping>
+
+
+</web-app>
